@@ -1,0 +1,12 @@
+python-dotenv
+streamlit
+langchain_core
+langchain_community
+langchain
+groq
+langchain_groq
+pathlib
+tenacity<8.4.0
+streamlit-chat
+re
+requests
